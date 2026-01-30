@@ -13,7 +13,7 @@ The solution provides:
 - Interactive web application
 - Business dashboards for decision-making
 
-> Note: For confidentiality reasons, real banking data and internal information cannot be shared.<br>
+> Note : For confidentiality reasons, real banking data and internal information cannot be shared.<br>
 
 
 
@@ -24,9 +24,9 @@ The solution provides:
 - **Data Processing:** Pandas, NumPy  
 - **Deployment:** Streamlit (web application)  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Environment:** Visual Studio Code + Python Virtual Environment (venv)
+- **Environment:** Visual Studio Code + Python Virtual Environment (venv)<br>
 
-<br>
+
 ## 🚀 Methodology (CRISP-DM)
 The project follows the CRISP-DM methodology:<br>
 <img width="936" height="472" alt="image" src="https://github.com/user-attachments/assets/c42b22d9-232f-4513-a8c7-3fdd1937d2c8" />
@@ -45,7 +45,7 @@ Defining churn in the context of retail banking and identifying key business ind
 <img width="626" height="297" alt="Capture2" src="https://github.com/user-attachments/assets/4f9c257c-80e5-4dea-b3a3-8166bf1adf19" />
 
 
-All datasets are transformed to obtain **one row per customer**.
+> Note : All datasets are transformed to obtain **one row per customer**.
 
 ### 3. Heuristic Labeling  
 🔹Since no explicit churn label was available, a heuristic labeling strategy was implemented using business-inspired rules, mainly based on:
@@ -152,7 +152,7 @@ Due to computational constraints, model training was performed on Kaggle noteboo
 
 
 
-Training scripts are available in: /notebooks/training/
+> Note : Training scripts are available in: /notebooks/training/
 
 ## ▶️ Run the Application
 streamlit run app.py

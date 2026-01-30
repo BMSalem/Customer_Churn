@@ -13,10 +13,10 @@ The solution provides:
 - Interactive web application
 - Business dashboards for decision-making
 
-> Note: For confidentiality reasons, real banking data and internal information cannot be shared.
+> Note: For confidentiality reasons, real banking data and internal information cannot be shared.<br>
 
 
-<br>
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.11  

@@ -1,6 +1,6 @@
 # Predictive Modeling of Customer Churn in the Moroccan Banking Sector
 ## 📌 Project Overview
-This project, was developed as a final graduation requirement for my Engineering Degree in Computer Science and Networks (MIAGE), aims to develop a predictive solution to identify customers at risk of leaving the bank (churn/attrition).
+This project aims to build an end-to-end Machine Learning solution to predict customer churn (attrition) in the banking sector.
 
 Originally inspired by a real-world use case in a major Moroccan bank, the objective is to identify customers at risk of leaving by detecting early behavioral signals and providing actionable insights for marketing and retention teams.<br>
 <screenshot title>

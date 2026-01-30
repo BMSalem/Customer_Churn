@@ -162,8 +162,8 @@ streamlit run app.py
 Customer_churn/<br>
 │<br>
 ├── Notebooks/                # training,Merging & preprocessing notebooks<br>
-├── streamlit/                # Streamlit application & Saved CatBoost model (.pkl)<br>
 ├── screens/                  # Power BI Screenshots<br>
+├── streamlit/                # Streamlit application & Saved CatBoost model (.pkl)<br>
 └── README.md
 
 
@@ -180,7 +180,7 @@ Customer_churn/<br>
 
 🔹Anonymized data<br>
 🔹No real-time data ingestion<br>
-🔹Future improvements:
+🔹Future improvements :
    - SHAP explainability
    - Model monitoring
    - API integration

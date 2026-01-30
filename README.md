@@ -75,9 +75,9 @@ This simulates real-world scenarios where churn labels are not directly observab
 <br>
 <img width="686" height="402" alt="image" src="https://github.com/user-attachments/assets/7e8f3186-3cd7-4a58-81b8-3568abb07f84" />
 <img width="842" height="562" alt="image" src="https://github.com/user-attachments/assets/8930c3e2-b985-4656-bdef-eacd34acbc80" />
-<img width="817" height="475" alt="image" src="https://github.com/user-attachments/assets/b18d1eb0-16d6-45f6-83b4-3cc627024353" />
+<img width="817" height="475" alt="image" src="https://github.com/user-attachments/assets/b18d1eb0-16d6-45f6-83b4-3cc627024353" /><br>
 
-<br>
+
 ## 📊 Key Results
 
 - The model successfully identifies nearly **70% of at-risk customers**.  
@@ -85,9 +85,9 @@ This simulates real-world scenarios where churn labels are not directly observab
   - Declining average balances  
   - Reduced transaction activity  
 <br>
-<img width="771" height="379" alt="image" src="https://github.com/user-attachments/assets/4b7d1631-b3be-47b3-b548-4a43353f8b65" />
+<img width="771" height="379" alt="image" src="https://github.com/user-attachments/assets/4b7d1631-b3be-47b3-b548-4a43353f8b65" /><br>
 
-<br>
+
 ## 🖥️ Solution Features
 
 ### 1. Streamlit Web Application

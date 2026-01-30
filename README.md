@@ -1,7 +1,7 @@
 # Predictive Modeling of Customer Churn in the Moroccan Banking Sector
 
 This project aims to build an end-to-end Machine Learning solution to predict customer churn (attrition) in the banking sector.
-
+<br>
 ## 📌 Project Overview
 
 Originally inspired by a real-world use case in a major Moroccan bank, the objective is to identify customers at risk of leaving by detecting early behavioral signals and providing actionable insights for marketing and retention teams.<br>
@@ -16,7 +16,7 @@ The solution provides:
 > Note: For confidentiality reasons, real banking data and internal information cannot be shared.
 
 
-
+<br>
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.11  
@@ -26,7 +26,7 @@ The solution provides:
 - **Visualization:** Power BI, Matplotlib, Seaborn  
 - **Environment:** Visual Studio Code + Python Virtual Environment (venv)
 
-
+<br>
 ## 🚀 Methodology (CRISP-DM)
 The project follows the CRISP-DM methodology:<br>
 <img width="936" height="472" alt="image" src="https://github.com/user-attachments/assets/c42b22d9-232f-4513-a8c7-3fdd1937d2c8" />
@@ -77,7 +77,7 @@ This simulates real-world scenarios where churn labels are not directly observab
 <img width="842" height="562" alt="image" src="https://github.com/user-attachments/assets/8930c3e2-b985-4656-bdef-eacd34acbc80" />
 <img width="817" height="475" alt="image" src="https://github.com/user-attachments/assets/b18d1eb0-16d6-45f6-83b4-3cc627024353" />
 
-
+<br>
 ## 📊 Key Results
 
 - The model successfully identifies nearly **70% of at-risk customers**.  
@@ -87,7 +87,7 @@ This simulates real-world scenarios where churn labels are not directly observab
 <br>
 <img width="771" height="379" alt="image" src="https://github.com/user-attachments/assets/4b7d1631-b3be-47b3-b548-4a43353f8b65" />
 
-
+<br>
 ## 🖥️ Solution Features
 
 ### 1. Streamlit Web Application
@@ -105,17 +105,17 @@ This simulates real-world scenarios where churn labels are not directly observab
 
 **Macro View**
 - Global churn trends  
-- High-risk customer segments
-<br>
-<img width="926" height="494" alt="Capture4" src="https://github.com/user-attachments/assets/88c336f2-9a69-4372-a061-fee70aa54438" />
+- High-risk customer segments<br>
 
+<img width="926" height="494" alt="Capture4" src="https://github.com/user-attachments/assets/88c336f2-9a69-4372-a061-fee70aa54438" />
+<br>
 
 **Individual View**
 - Detailed profiles of at-risk customers  
-- Support for targeted retention actions  
-<br>
+- Support for targeted retention actions  <br>
+  
 <img width="899" height="508" alt="Capture5" src="https://github.com/user-attachments/assets/feb2f37f-2f1d-45d7-a298-b34f84f33fcd" />
-
+<br>
 
 ## ⚙️ Development Environment
 
@@ -142,7 +142,15 @@ Due to computational constraints, model training was performed on Kaggle noteboo
 - Train / test split
 - Feature encoding
 - Hyperparameter tuning
-- Model persistence
+- Model persistence<br>
+<img width="743" height="174" alt="image" src="https://github.com/user-attachments/assets/9a133876-f15e-4932-ab46-705390212b55" />
+<img width="898" height="78" alt="image" src="https://github.com/user-attachments/assets/5fdf919e-78f2-468c-86e5-94d7b162a113" />
+<img width="830" height="467" alt="image" src="https://github.com/user-attachments/assets/caacca16-ad72-4a58-896f-f91f653364d7" />
+<img width="913" height="225" alt="image" src="https://github.com/user-attachments/assets/92318520-2c1e-4090-99ad-09fc9f4487c6" />
+
+
+
+
 
 Training scripts are available in: /notebooks/training/
 
@@ -154,10 +162,6 @@ streamlit run app.py
 Customer_churn/<br>
 │<br>
 ├── Notebooks/                # training,Merging & preprocessing notebooks<br>
-    │<br>
-    ├── Merging/      <br>        
-    ├── Preprocessing/    <br>    
-    ├── training/        <br>     
 ├── streamlit/                # Streamlit application & Saved CatBoost model (.pkl)<br>
 ├── screens/                  # Power BI Screenshots<br>
 └── README.md
@@ -174,8 +178,8 @@ Customer_churn/<br>
 
 ## 🔮 Limitations & Future Work
 
-🔹Anonymized data
-🔹No real-time data ingestion
+🔹Anonymized data<br>
+🔹No real-time data ingestion<br>
 🔹Future improvements:
    - SHAP explainability
    - Model monitoring
